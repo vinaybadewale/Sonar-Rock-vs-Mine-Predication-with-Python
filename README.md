@@ -1,1 +1,1 @@
-# Sonar-Rock-vs-Mine-Predication-with-Python
+# Sonar-Rock-vs-Mine-Predication-with-Python using Logistic Regression
